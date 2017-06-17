@@ -44,7 +44,7 @@
                 <option class="opt2" name="ico">ico</option>
                 <option class="opt2" name="svg">svg</option>
             </select></br></br>
-            <input type="file" name="upload_file" id="upload_file" />
+            <input type="url" name="upload_file" id="upload_file" />
             <button type="submit" id="btn">Convert File!</button>  
         </form>  
         <div id="response">
